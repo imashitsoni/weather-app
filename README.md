@@ -1,3 +1,1 @@
-Weather App
-<br>
-Open this url: <a href="https://imashitsoni.github.io/weather-app" target="_blank">View App</a>
+Weather App - <a href="https://imashitsoni.github.io/weather-app" target="_blank">Go to App</a>
